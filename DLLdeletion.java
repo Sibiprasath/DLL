@@ -9,13 +9,10 @@ public class DLLdeletion{
         Node next;
         Node prev;
         
-        //Node head;
-        
         Node(int val){
             data = val;
             next = null;
             prev = null;
-            //head = null;
         }
     }
     DLLdeletion(){
